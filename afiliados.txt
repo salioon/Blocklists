@@ -1,0 +1,197 @@
+short.io
+sniply.io
+reflectoring.io
+shlink.io
+uplifter.ai
+iplogger.org
+joinup.ec.europa.eu
+restena.lu
+rebrandly.com
+t.ly
+cutt.ly
+free-url-shortener.rb.gy
+tinyurl.com
+shorturl.at
+www.shorturl.at
+bit.ly
+tlm.li
+ift.tt
+afiliados.amazon.es
+affiliate-program.amazon.com
+amazon-affiliate.eu
+t.me
+imgur.com
+pastebin.com
+pastebin.mozilla.org
+x.co
+1w.tf
+1b.yt
+is.gd
+ow.ly
+po.st
+b.link
+plu.sh
+zii.bz
+dis.gd
+t2m.io
+bit.do
+goo.gl
+bit.ly
+tiny.ie
+cutt.ly
+hive.am
+snip.li
+buff.ly
+go2l.ink
+page.link
+shortcm.li
+snipli.com
+send.digital
+great.social
+t.co
+bercara.com
+semawur.com
+in11.site
+droidtamvan.me
+haipedia.com
+shrinkads.com
+modebaca.com
+liveshootv.com
+shrink.world
+mymastah.xyz
+sportif.id
+healthinsider.online
+cararoot.id
+gubukbisnis.me
+sekilastekno.com
+megaurl.in
+linkvertise.com
+safelinkconverter.com
+safelinkreview.com
+safelinkreviewx.com
+safelinkreview.co
+awsubsco.ml
+awsubsco.cf
+mispuani.xyz
+safelinku.icu
+ad4msan.win/safe
+infotekno.net/vga
+sehuruf.com/linkku/
+novicearea.com/
+dikatekno.com/go/
+blackmod.net/dl/
+hulblog.com/
+omglyrics.com/
+nyantaidulu.com/linknya/
+pixelshost.com/
+leechall.com/redirect.php
+news-gg.com/l/
+mobile01.com/redirect.php
+nurhamka.com
+linepc.site
+adobedownload.org/redirect/
+sopasti.com/anime.php
+zxro.com/u
+macdownload.org/redirect/
+forek.info
+creditcable.info
+adfoc.us/serve/sitelinks/
+made-by.org/redirection/
+itsbx.com/redirect/
+pixiv.net/jump.php
+hdblurayindir.com/git.php
+gate.sc/
+freetutsdownload.net/redirect-to/
+mcpedl.com/leaving/
+go.redirectingat.com
+ow.ly
+nzn.me
+viral.over-blog.com
+gyazo.in
+ps3cfw.com
+urlz.fr
+webpanel.space
+imgur.com.de
+fuglekos.com
+discord.kim
+prntcrs.com
+grabify.link
+leancoding.co
+stopify.co
+freegiftcards.co
+joinmy.site
+curiouscat.club
+catsnthings.fun
+catsnthings.com
+xn--yutube-iqc.com
+gyazo.nl
+yip.su
+iplogger.com
+iplogger.co
+iplogger.org
+iplogger.ru
+iplogger.info
+ipgraber.ru
+ipgrabber.ru
+2no.co
+02ip.ru
+iplis.ru
+iplo.ru
+ezstat.ru
+whatstheirip.com
+partpicker.shop
+sportshub.bar
+locations.quest
+lovebird.guru
+trulove.guru
+dateing.club
+shrekis.life
+headshot.monster
+gaming-at-my.best
+progaming.monster
+yourmy.monster
+imageshare.best
+screenshot.best
+gamingfun.me
+catsnthing.com
+fortnitechat.site
+fortnight.space
+hondachat.com
+bvog.com
+youramonkey.com
+pronosparadise.com
+freebooter.pro
+blasze.com
+blasze.tk
+ipgrab.org
+gyazos.com
+
+
+
+#afiliados
+0.0.0.0  short.io
+0.0.0.0  sniply.io
+0.0.0.0  reflectoring.io
+0.0.0.0  shlink.io
+0.0.0.0  uplifter.ai
+0.0.0.0  iplogger.org
+0.0.0.0  joinup.ec.europa.eu
+0.0.0.0  restena.lu
+0.0.0.0  rebrandly.com
+0.0.0.0  t.ly
+0.0.0.0  cutt.ly
+0.0.0.0  free-url-shortener.rb.gy
+0.0.0.0  tinyurl.com
+0.0.0.0  shorturl.at
+0.0.0.0  www.shorturl.at
+0.0.0.0  bit.ly
+0.0.0.0  tlm.li
+0.0.0.0  ift.tt
+0.0.0.0  afiliados.amazon.es
+0.0.0.0  affiliate-program.amazon.com
+0.0.0.0  amazon-affiliate.eu
+0.0.0.0  t.me
+0.0.0.0  imgur.com
+0.0.0.0  pastebin.com
+0.0.0.0  pastebin.mozilla.org
+

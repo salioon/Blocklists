@@ -1,0 +1,272 @@
+#nextdnsbloqueo
+ mvt.re
+ docs.mvt.re
+ novalpina.pe
+ www.novalpina.pe
+ navantia.es
+ www.navantia.es
+ fticonsulting.com
+ www.fticonsulting.com
+ www.safegraph.com
+ safegraph.com
+ io.opentelemetry
+ opencensus.io
+ jdoqocy.com
+ www.jdoqocy.com
+ telecinco.es
+ openai.com
+ cerdas.com
+ us.pornhub.com
+ pt.pornhub.com
+ es.pornhub.com
+ www.cerdas.com
+ privacyshield.gov
+ www.privacyshield.gov
+ incoming.telemetry.mozilla.org
+ www.darpa.mil
+ dataworksplus.com
+ ai.facebook.com
+ face.com
+ cloudwalk.com
+ www.cloudwalk.com
+ clearview.ai
+ www.clearview.ai
+ www-googletagmanager.l.google.com
+ googletagmanager.com
+ www.googletagmanager.com
+ mandiant.com
+ www.mandiant.com
+ wayra.com
+ openmetaverse.co
+ azure.microsoft.com
+ www.lib.openmetaverse.co
+ lib.openmetaverse.co
+ www.wayra.com
+ edition.cnn.com
+ cnnespanol.cnn.com
+ www.france24.com
+ www.vozdeamerica.com
+ www.voanews.com
+ www.rferl.org
+ www.bbc.com
+ www.bbc.co.uk
+ demdex.net
+ unrulymedia.com
+ geolocation.onetrust.com
+ www.reuters.com
+ reuters.com
+ developer.mozilla.org
+ www.antena3.com
+ antena3.com
+ www.lasexta.com
+ lasexta.com
+ www.rtve.es
+ rtve.es
+ www.efe.com
+ efe.com
+ russian.rt.com
+ europapress.es
+ dw.com
+ www.dw.com
+ es.euronews.com
+ euronews.com
+ www.euronews.com
+ www.rt.com
+ rt.com
+ sputniknews.com
+ mundo.sputniknews.com
+ actualidad.rt.com
+ block1-che.interlayer.co.uk
+ www.indracompany.com
+ about.facebook.com
+ meta.com
+ mimir.vivaldi.com
+ xt.streamlabs.com
+ push.services.mozilla.com
+ mozilla.cloudflare-dns.com
+ safeframe.googlesyndication.com
+ pre.footprintpredict.com
+ file.update.miui.com
+ update.intl.miui.com
+ experiments.apple.com
+ jerry-se-do-na-west-scanners-37.do.binaryedge.ninja
+ scan-57-26.security.ipip.net
+ ipv4.msftconnecttest.com
+ ipv6.msftconnecttest.com
+ nccgroup.com
+ research.nccgroup.com
+ palantir.com
+ investors.kape.com
+ kape.com
+ www.kape.com
+ www.googleadservices.com
+ ade.googlesyndication.com
+ searchads.apple.com
+ omegle.com
+ www.aeternalmentis.ai
+ aeternalmentis.ai
+ www.elevenpaths.com
+ elevenpaths.com
+ finfisher.com
+ www.finfisher.com
+ hackingteam.it
+ www.hackingteam.it
+ www.nsogroup.com
+ nsogroup.com
+ mu.se
+ sky.census.shodan.io
+ wiki.audacityteam.org
+ www.audacityteam.org
+ updates.audacityteam.org
+ audacityteam.org
+ openhub.net
+ aura.telefonica.com
+ firebase-settings.crashlytics.com
+ device-metrics-es.amazon.es
+ device-metrics-us.amazon.com
+ reports.crashlytics.com
+ newtral.es
+ api.dns.coffee
+ cdnjs.cloudflare.com
+ cloudflare.com
+ osff.map.fastly.net
+ google-analytics.com
+ dns.coffee
+ contributor.google.com
+ checkappexec.microsoft.com
+ fireoscaptiveportal.com
+ gstatic.com
+ firebaseremoteconfig.googleapis.com
+ adssettings.google.com
+ idiagnostics.apple.com.akadns.net
+ proxyradar.com
+ googleads.g.doubleclick.net
+ googleadservices.com
+ adservice.google.com
+ telephonyspamprotect-pa.googleapis.com
+ location.services.mozilla.com
+ telemetry.microsoft.com
+ device-messaging-na.amazon.com
+ com.amazon.widgets
+ cortana-gateway.amazon.com
+ detectportal.firefox.com
+ packages.microsoft.com
+ log.hitsteps.net
+ jigsaw.google.com
+ moonshotcve.com
+ ocsp.apple.com
+ consent.youtube.com
+ consent.google.com
+ googlesyndication.com
+ tpc.googlesyndication.com
+ indracompany.com
+ shodan.io
+ shadowserver.org
+ dnsscan.shadowserver.org
+ wigle.net
+ investigate.umbrella.com
+ cookiehub.net
+ advertising.amazon.es
+ advertising.amazon.com
+ browseranalytic.com
+ cookielaw.org
+ cdn.cookielaw.org
+ doubleclick.net
+ maldita.es
+ covid19.gob.es
+ radarcovid.covid19.gob.es
+blogs.hyvor.com		
+candirusecurity.com
+candirusecurity.il	
+nsogroup.il
+talk-websocket.hyvor.com
+blogs.hyvor.com
+hyvor.com
+
+telegram.t2bot.io
+
+status.t2bot.io
+
+t2bot.io
+
+www.baidu.com
+
+baidu.com
+
+wivai.com
+
+www.wivai.com
+
+monitor.shodan.io
+
+me.shodan.io
+
+developer.shodan.io
+
+account.shodan.io
+
+dosninja.net
+
+www.dosninja.net
+
+ https://workplace.com
+
+ http://workplace.com
+
+ www.workplace.com
+
+workplace.com
+https://futo.org
+futo.org
+jetbrains.com
+plugins.jetbrains.com
+
+https://www.trustpid.com
+www.trustpid.com
+trustpid.com
+https://usefathom.com
+usefathom.com
+app.usefathom.com
+https://huggingface.co
+huggingface.co
+rcslab.it	
+tykelab.it	
+www.rcslab.it	
+www.tykelab.it
+synchron.com
+neuralink.com
+portscanner-ams3-01.prod.cyberresilience.io
+cyberresilience.io
+ocloud.oppomobile.com
+conn-service-gl-01.allawntech.com
+mdp-appconf-eu.heytapdl.com
+dceuex.push.heytapmobile.com
+classify-app-eu.allawnos.com
+httpdns-euex-push.heytapmobile.com
+omes-sec.heytapmobile.com
+moa-upload-eu.allawnos.com
+gauss-componentotacostmanual-eu.allawnofs.com
+icosa-eu.coloros.com
+esa-reg-eup.myoppo.com
+adx-in.ads.oppomobile.com
+httpdns.ocloud.oppomobile.com
+bbs.oppo.com
+communityin.oppo.com
+lang-eu.coloros.com
+ifrus-eu.coloros.com
+oppo.qualtricks.com
+qualtricks.com
+conn-service-eu-03.allawnos.com
+conn-service-eu-04.allawnos.com
+conn-service-eu-05.allawnos.com
+conn-service-us-08.allawnos.com
+conn-service-us-07.allawnos.com
+conn-service-us-03.allawnos.com
+conn-service-us-04.allawnos.com
+conn-service-us-05.allawnos.com
+supl.google.com
+https://www.openmv.org
+https://openmv.org
+www.openmv.org
+openmv.org
+
