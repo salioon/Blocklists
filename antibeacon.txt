@@ -176,6 +176,6 @@ izatcloud.net
 supl.izatcloud.net
 supl.vodafone.com
 supl.google.com
-supl.google.es
+
 
 
