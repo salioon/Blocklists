@@ -1,7 +1,7 @@
 # Blocklists
 ---
-📘 Blocklist compatibles con pihole,ublock origin,origin,trackercontrol,adway 
+📘 *Blocklist compatibles con pihole,ublock origin,dnsfilter,adblock,trackercontrol,adway* 
 
-Android📱,Linux 💾,Windows 💻
+*Android📱,Linux 💾,Windows 💻*
 
 ---
