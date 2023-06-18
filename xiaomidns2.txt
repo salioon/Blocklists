@@ -212,6 +212,12 @@
 0.0.0.0  i.api.xmpush.xiaomi.com
 0.0.0.0  i.mi.com
 0.0.0.0  i.xiaomi.com
+0.0.0.0  glonass-iac.ru
+0.0.0.0  glonass.ru
+0.0.0.0  beidu.cn
+0.0.0.0  beidu.com
+0.0.0.0  baidu.cn
+0.0.0.0  baidu.com
 0.0.0.0  i2.api.io.mi.com
 0.0.0.0  ident.mistat.xiaomi.com
 0.0.0.0  idmb-api.xmpush.global.xiaomi.com
