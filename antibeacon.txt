@@ -177,5 +177,10 @@ supl.izatcloud.net
 supl.vodafone.com
 supl.google.com
 
+#gpsgbeac
+glonass-iac.ru
+glonass.ru
+
+
 
 
