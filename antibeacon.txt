@@ -183,8 +183,8 @@ glonass-iac.ru
 glonass.ru
 beidu.cn
 beidu.com
-baidu.cn
-baidu.com
+www.baidu.cn
+www.baidu.com
 
 
 
