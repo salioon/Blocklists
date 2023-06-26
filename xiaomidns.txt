@@ -552,6 +552,12 @@ es-es.ring.com
 ring.com
 eur-lex.europa.eu
 
+#kelacyber
+www.kelacyber.com
+kelacyber.com
+https://www.kelacyber.com
+https://kelacyber.com
+
 #bigdataue
 www.linktr.ee
 linktr.ee
