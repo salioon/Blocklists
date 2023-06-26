@@ -624,6 +624,12 @@
 0.0.0.0 circleci.com
 0.0.0.0 www.circleci.com
 
+#kelacyber
+0.0.0.0 www.kelacyber.com
+0.0.0.0 kelacyber.com
+0.0.0.0 https://www.kelacyber.com
+0.0.0.0 https://kelacyber.com
+
 #googleia
 0.0.0.0 www.ai.google
 0.0.0.0 ai.google
